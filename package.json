@@ -1,0 +1,23 @@
+{
+  "name": "NAME_OF_GIT_HUB_PROJECT",
+  "version": "1.0.0",
+  "description": "Jasmine unit tests for Project 7: Feed Reader Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimRobertsGitHub/NAME_OF_GIT_HUB_PROJECT.git"
+  },
+  "author": "Tim Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimRobertsGitHub/NAME_OF_GIT_HUB_PROJECT/issues"
+  },
+  "homepage": "https://github.com/TimRobertsGitHub/NAME_OF_GIT_HUB_PROJECT#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
